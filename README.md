@@ -1,4 +1,4 @@
-###**2020 House Election Estimation Project(R): 
+ **2020 House Election Estimation Project(R): 
 
 Use 2018 Population Estimates Program (PEP) data to estimate the number of House of Representative members for each state expected from the results of the upcoming 2020 census.
 
@@ -8,7 +8,7 @@ Use 2018 Population Estimates Program (PEP) data to estimate the number of House
 ![alt text](https://github.com/Bommi95/BYGB7990/blob/master/Rplot.png)
 
 Source data: 
-2018 population PEP:
-https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=PEP_2018_PEPANNRES&src=pt
-2010 Apportionment Data: 
+2018 population PEP:\t
+https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=PEP_2018_PEPANNRES&src=pt\t
+2010 Apportionment Data: \t
 https://www.census.gov/data/tables/2010/dec/2010-apportionment-data.html
