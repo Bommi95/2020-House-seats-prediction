@@ -9,7 +9,7 @@ The goal of this project is to use 2018 Population Estimates Program (PEP) data 
 
 ![alt text](https://github.com/Bommi95/BYGB7990/blob/master/Rplot.png)
 
-Source data:  
+Reference:  
 2018 population PEP:  
 https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=PEP_2018_PEPANNRES&src=pt  
 2010 Apportionment Data:   
